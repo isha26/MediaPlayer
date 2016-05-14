@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicPlayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_toggle">Toggle</string>
+    <string name="action_exit">Exit</string>
+  <color name="blue">#006DF0</color>
+
+</resources>
